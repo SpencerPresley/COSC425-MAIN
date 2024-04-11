@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/SpencerPresley/COSC425-DATA
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/SpencerPresley/COSC425-FRONT
+	branch = main
